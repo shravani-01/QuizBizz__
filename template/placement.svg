@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v10" transform="translate(-490.000000, -5123.000000)">
+            <g id="Page-1" transform="translate(491.000000, 5125.000000)">
+                <polygon id="Stroke-1" stroke="#C982C4" stroke-width="2.987" points="0.494 44.5040217 45.494 44.5040217 45.494 0.482282609 0.494 0.482282609"></polygon>
+                <g id="Group-7" transform="translate(8.000000, 20.543478)"></g>
+                <g id="Group-8" transform="translate(8.000000, 12.717391)" stroke="#C982C4" stroke-width="3">
+                    <path d="M9.005,3.91597826 C9.005,6.07891304 7.213,7.83195652 5.002,7.83195652 C2.792,7.83195652 1,6.07891304 1,3.91597826 C1,1.75304348 2.792,0 5.002,0 C7.213,0 9.005,1.75304348 9.005,3.91597826 Z" id="Stroke-3"></path>
+                    <path d="M0.912,13.3684728 L9.78081597,21.2441851" id="Stroke-4"></path>
+                    <path d="M9.53125,12.8501229 L0.912333333,21.296788" id="Stroke-5"></path>
+                    <path d="M14.2334,18.0914674 L28.5664,18.0914674" id="Stroke-7"></path>
+                    <path d="M14.2334,3.41755435 L28.5664,3.41755435" id="Stroke-7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

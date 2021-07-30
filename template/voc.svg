@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="42px" viewBox="0 0 45 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>vocabulary quiz</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v10" transform="translate(-891.000000, -4496.000000)">
+            <g id="vocabulary-quiz" transform="translate(891.000000, 4493.000000)">
+                <rect id="Rectangle-14" x="0" y="0" width="45" height="45"></rect>
+                <polygon id="Rectangle-19" stroke="#C982C4" stroke-width="3" points="1.8 5.26878367 22.7232056 8.79726891 43.2 5.26878367 43.2 39.6715148 23.551593 43.2 1.8 39.6715148"></polygon>
+                <path d="M22.7285156,8.51308594 L22.7285156,42.7678964" id="Path-5" stroke="#D080C3" stroke-width="3"></path>
+                <path d="M26.1351562,33.2839355 L39.0313477,31.1602783" id="Path-11" stroke="#D080C3" stroke-width="3"></path>
+                <path d="M26.1351562,25.1839355 L39.0313477,23.0602783" id="Path-11" stroke="#D080C3" stroke-width="3"></path>
+                <path d="M26.1351562,17.0839355 L39.0313477,14.9602783" id="Path-11" stroke="#D080C3" stroke-width="3"></path>
+                <path d="M5.43515625,33.2839355 L18.3313477,31.1602783" id="Path-11" stroke="#D080C3" stroke-width="3" transform="translate(11.883252, 32.222107) scale(1, -1) translate(-11.883252, -32.222107) "></path>
+                <path d="M5.43515625,25.1839355 L18.3313477,23.0602783" id="Path-11" stroke="#D080C3" stroke-width="3" transform="translate(11.883252, 24.122107) scale(1, -1) translate(-11.883252, -24.122107) "></path>
+                <path d="M5.43515625,17.0839355 L18.3313477,14.9602783" id="Path-11" stroke="#D080C3" stroke-width="3" transform="translate(11.883252, 16.022107) scale(1, -1) translate(-11.883252, -16.022107) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
